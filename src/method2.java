@@ -48,6 +48,8 @@ public class method2 {
 		 * System.out.println(driver.findElement(By.xpath(
 		 * "//body[contains(text(),'RIGHT')]")).getText());
 		 */
-		
+			 System.out.println("Accenture");
+			 System.out.println("Interiordesign");
+			 System.out.println("palas Nivas is getting ready");
 	}	
 }
