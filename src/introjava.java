@@ -60,6 +60,7 @@ public class introjava {
 	 System.out.println("Praneetha learning Selenium with GIT");
 	 System.out.println("Happy learning and become a good tester");
 	 System.out.println("Happy learning and become a good dev");
+	 System.out.println("Happy learning Praneetha palasamudram");
 	 }
 	 
 	}
