@@ -56,7 +56,10 @@ public class introjava {
 	 //.out.println(s5.concat(s));
 	 //String [] splittedarray=s5.split("in");
 	 //System.out.println(splittedarray[0]);
-	 
+	 System.out.println("Praneetha learning GIT");
+	 System.out.println("Praneetha learning Selenium with GIT");
+	 System.out.println("Happy learning and become a good tester");
+	 System.out.println("Happy learning and become a good dev");
 	 }
 	 
 	}
